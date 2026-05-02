@@ -11,3 +11,5 @@ AI system that detects cheating behavior using YOLO and MediaPipe in real time.
 - YOLOv8
 - MediaPipe
 - OpenCV
+## Demo
+![Detection](images/detection.png)
